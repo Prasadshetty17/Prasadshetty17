@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prasad Shetty from Mumbai, India
+- 👀 I’m interested in working on Python Projects mostly into Data Visualization and Machine Learining
+- 🌱 I’m currently learning Data Viualization
+- 💞️ I’m looking to collaborate on ...
+- 📫 To reach me, Please DM me on hangout or Mail me to prasad.shetty41@gmail.com
